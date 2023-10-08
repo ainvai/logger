@@ -1,1 +1,1 @@
-im.aop.loggers.AopLoggersAutoConfiguration
+com.ainvai.core.logger.AopLoggersAutoConfiguration
